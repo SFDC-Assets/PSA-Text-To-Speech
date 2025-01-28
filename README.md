@@ -2,7 +2,7 @@
 
 # Text-to-Speech for OmniScript and Flow
 
-[Required. Show overview of the Accelerator. This should match the approved content used on the Accelerator listing.]
+This component takes Text as an input and converts it into an Audio file for playback.  There are many situations where this might be useful.
 
 Accelerator Listing: [insert url to the public listing on the Accelerator site](https://gpsaccelerators.developer.salesforce.com/) (tbd once published)
 
