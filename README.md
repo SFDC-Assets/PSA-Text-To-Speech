@@ -4,7 +4,7 @@
 
 This component takes Text as an input and converts it into an Audio file for playback.  There are many situations where this might be useful.
 
-Accelerator Listing: [insert url to the public listing on the Accelerator site](https://gpsaccelerators.developer.salesforce.com/) (tbd once published)
+[Accelerator Listing](https://gpsaccelerators.developer.salesforce.com/accelerator/a0wDo000000BAxOIAW/texttospeech-for-omniscript-and-flow)
 
 
 ## Description
