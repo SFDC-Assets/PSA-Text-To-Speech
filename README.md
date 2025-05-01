@@ -2,7 +2,7 @@
 
 # Text-to-Speech for OmniScript and Flow
 
-This component takes Text as an input and converts it into an Audio file for playback.  There are many situations where this might be useful.
+Easily integrate text-to-speech functionality into your user workflows.
 
 [Accelerator Listing](https://gpsaccelerators.developer.salesforce.com/accelerator/a0wDo000000BAxOIAW/texttospeech-for-omniscript-and-flow)
 
